@@ -9,4 +9,6 @@
 [universeindream](https://github.com/universeindream)、
 [wulu17](https://github.com/wulu17)
 
+## 安全性未知，自行测试
+
 ![img](https://raw.githubusercontent.com/CnHack3r/useful-qiangcai-backup/main/pic/qiangcai.png)
